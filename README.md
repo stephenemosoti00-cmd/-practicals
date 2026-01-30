@@ -1,0 +1,2 @@
+# -practicals
+Jkuat c++ practicals
